@@ -1,2 +1,2 @@
 # Program-materials
-For smaller case studies relating to the nanodegree program through udacity
+For smaller case studies and learning related materials to the nanodegree program through udacity
